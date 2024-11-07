@@ -19,3 +19,4 @@ cat2.set_data("Any", 5 , False)
 
 cat1.get_data()
 cat2.get_data()
+print("Thats all")
