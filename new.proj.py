@@ -19,8 +19,3 @@ cat2.set_data("Any", 5 , False)
 
 cat1.get_data()
 cat2.get_data()
-print("Thats all")
-print("08/11/24")
-print("yyy")
-print("14.08.24")
-print("Rezyx")
